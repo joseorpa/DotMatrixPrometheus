@@ -31,7 +31,7 @@ Based on [cloud-bulldozer/performance-dashboards](https://github.com/cloud-bulld
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/DotMatrixPrometheus.git
+git clone https://github.com/joseorpa/DotMatrixPrometheus.git
 cd DotMatrixPrometheus
 
 # Create virtual environment
@@ -54,7 +54,7 @@ python dashboard.py --list
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/DotMatrixPrometheus.git
+git clone https://github.com/joseorpa/DotMatrixPrometheus.git
 cd DotMatrixPrometheus
 
 # Install dependencies system-wide
